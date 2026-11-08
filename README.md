@@ -1,2 +1,1 @@
-# Learning-C-and-DSA
-Tracking my DSA Journey
+It contains my C++ and DSA-related code snippets and practice work.
